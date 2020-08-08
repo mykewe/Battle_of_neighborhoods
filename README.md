@@ -43,6 +43,7 @@ In this Cluster, there are many restaurants, a good neighborhood to build a rest
 #### Second cluster
 
 ![](output_49_1.png)
+
 There isn't many restaurants in this cluster, the following are best neighborhoods to build a restaurant:
 
 * Dufferin, Dovercourt Village
@@ -53,6 +54,7 @@ There isn't many restaurants in this cluster, the following are best neighborhoo
 #### Third cluster
 
 ![](output_52_1.png)
+
 There isn't many restaurants in this cluster also, the following are best neighborhoods to build a restaurant:
 
 * Forest Hill North & West, Forest Hill Road Park
@@ -63,6 +65,7 @@ There isn't many restaurants in this cluster also, the following are best neighb
 #### Forth Cluster
 
 ![](output_55_1.png)
+
 There isn't many restaurants in this cluster also, the following are best neighborhoods to build a restaurant:
 
 * Business reply mail Processing Center
