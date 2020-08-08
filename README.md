@@ -1,6 +1,5 @@
 # BEST RESTAURANT LOCATION IN TORONTO
-
-
+Cousera capstone project
 ## Table of contents
 * [Introduction: Business Problem](#introduction)
 * [Data](#data)
