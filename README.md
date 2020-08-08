@@ -28,18 +28,20 @@ The following data sources will be needed to extract/generate the required infor
 ## Methodology <a name="methodology"></a>
 The Kmeans clustering would be used to group the restaurants based on their closeness to each other. The numbers of resturants in each neighborhoods would then be determined. The restaurants in Toronto using foursquare API
 
-
 ## Results and Discussion <a name="results"></a>
 
-Now, we can visualize the numbers of restaurants the neighborhoods in each clusters and decide that the best place to build a restaurant are where the number of existing restaurants are less than 5
+Now, we can visualize the numbers of restaurants the neighborhoods in each clusters and decide that the best place to build a restaurant are where the number of existing restaurants are less than 5.
+
 ![](map.png)
 
 #### First cluster
+
 ![](output_46_1.png)
 
 In this Cluster, there are many restaurants, a good neighborhood to build a restaurant would be Queen's Park, Ontario Provincial Government
 
 #### Second cluster
+
 ![](output_49_1.png)
 There isn't many restaurants in this cluster, the following are best neighborhoods to build a restaurant:
 
@@ -49,6 +51,7 @@ There isn't many restaurants in this cluster, the following are best neighborhoo
 * Parkdale, Roncesvalles
 
 #### Third cluster
+
 ![](output_52_1.png)
 There isn't many restaurants in this cluster also, the following are best neighborhoods to build a restaurant:
 
@@ -58,9 +61,8 @@ There isn't many restaurants in this cluster also, the following are best neighb
 * Summerhill West
 
 #### Forth Cluster
+
 ![](output_55_1.png)
-
-
 There isn't many restaurants in this cluster also, the following are best neighborhoods to build a restaurant:
 
 * Business reply mail Processing Center
